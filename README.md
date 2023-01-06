@@ -14,3 +14,4 @@
 
 * (optional) Install [GitHub Co-Pilot](https://docs.github.com/en/copilot/quickstart) for more advanced AI auto programming experience 
 
+* After you finish with installation, go to your html file or sketch js and you will noticed that "P5 Server" button appear on the lower blue bar. press on it, and navigate to your html file.
